@@ -1,44 +1,14 @@
-<h1 align="left">my readme lmao</h1>
+<h1 align="center">Hi, I'm Gosha</h1>
+<h3 align="center">DS Student @ University of Toronto</h3>
 
-<div style="display: flex; align-items: flex-start;">
-  <!-- Image on the left -->
-  <div>
-    <img height="250" src="https://i.ytimg.com/vi/MFQS7kOCwoI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBo4Mo2-uBDpXEzWQbobw_PokLClg" />
-  </div>
+- I’m currently working on [battleshit (overkill battleship calculator)](https://github.com/gripols/battleshit)
 
-  <!-- About Me on the right -->
-  <div style="margin-left: 20px;">
-    <h2>About Me</h2>
-    <p>
-       Miserable high school student in Toronto, Canada.
-       I work on my own projects for the most part, but I'm trying to
-       make more meaningful PRs. That's actually me sawing that branch btw.
-    </p>
-  </div>
-</div>
+- Email **gosha.polstvin@icloud.com**
 
-###
+- Fun fact **That's really me sawing the wood**
 
-<div align="left">
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/latex/008080" height="40" alt="latex logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnuemacs/7F5AB6" height="40" alt="gnuemacs logo" />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <a href="https://open.spotify.com/user/31oj6545ocny2wipyjiiwvhavbmy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31oj6545ocny2wipyjiiwvhavbmy&count=5" alt="Spotify recently played" />
-  </a>
-</div>
+<h3 align="left">Socials and Profiles:</h3>
+<p align="left">
+<a href="https://instagram.com/gripols_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gripols_" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/gripols" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gripols" height="30" width="40" /></a>
+</p>
