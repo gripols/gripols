@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Gosha</h1>
 <h3 align="center">DS Student @ University of Toronto</h3>
 
-- I’m currently working on [battleshit (overkill battleship calculator)](https://github.com/gripols/battleshit)
-
 - Email **gosha.polstvin@icloud.com**
 
 - Fun fact **That's really me sawing the wood**
